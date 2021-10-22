@@ -8,7 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertiele&layout=compact&langs_count=7&theme=dark"/>    
 </div>
 
-#### Languages 
 <p>
    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
