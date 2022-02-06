@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studing Telecommunications Engineering. 
+- 🔭 I’m currently studying Telecommunications Engineering. 
 - 🌱 I’m currently learning Python.
 <div align="center">
   <a href="https://github.com/Robertiele">
